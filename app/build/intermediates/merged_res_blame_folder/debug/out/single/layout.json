@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\rashmi.tn\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-mergeDebugResources-44:\\layout\\fragment_second.xml",
+        "source": "C:\\Users\\rashmi.tn\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-47:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-44:/layout/fragment_first.xml",
+        "source": "com.example.myapplication.app-main-47:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashmi.tn\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-mergeDebugResources-44:\\layout\\content_main.xml",
+        "source": "C:\\Users\\rashmi.tn\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-47:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashmi.tn\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-mergeDebugResources-44:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\rashmi.tn\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-47:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\rashmi.tn\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-mergeDebugResources-44:\\layout\\fragment_first.xml",
+        "source": "C:\\Users\\rashmi.tn\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-47:\\layout\\fragment_first.xml"
+    }
+]
